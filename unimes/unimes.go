@@ -1,5 +1,5 @@
 package unimes
-
+// Unimes
 type UniversalMessage struct {
 	ID        int64       //message ID
 	Sender    Destination //Создатель сообщения
